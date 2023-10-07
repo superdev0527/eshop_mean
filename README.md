@@ -106,7 +106,7 @@ FE_RECAPTCHA_CLIENT_KEY="FE_RECAPTCHA_CLIENT_KEY"
 ## Docker
 
 ```bash
-# pull docker
+# pull 
 docker pull pararel/eshop-mean:latest
 
 # run docker with env file
